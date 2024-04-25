@@ -10,3 +10,4 @@
 - Electron
 - Go
 - Monorepo
+- InversifyJS
